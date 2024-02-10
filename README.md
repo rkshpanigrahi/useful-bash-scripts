@@ -14,6 +14,8 @@ Collection of useful bash scripts for Linux
 ## Utility Scripts
 
 ## Script for programmer
+1. [check-certs.sh](scripts/check-certs.sh) :  certificate expiration checker script for certificates stored in a Java keystore
+
 
 
 ## Script for System Administrator
