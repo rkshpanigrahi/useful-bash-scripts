@@ -13,9 +13,12 @@ Collection of useful bash scripts for Linux
 
 ## Utility Scripts
 
-## Script for programmer
 1. [check-certs.sh](scripts/check-certs.sh) :  certificate expiration checker script for certificates stored in a Java keystore
 
+## Script for programmer
 
+1. [api-test-curl.sh](scripts/api-test-curl.sh) :  API testing script using curl
+2. [api-test-curl-with-auth.sh](scripts/api-test-curl-with-auth.sh) :  API testing script using curl with basic authentication
+3. [logging-scripts.sh](scripts/logging-scripts.sh) :  bash shell script that logs messages with a timestamp and a severity level (like INFO, ERROR, or WARNING) to a log file [script.log](script.log)
 
 ## Script for System Administrator
