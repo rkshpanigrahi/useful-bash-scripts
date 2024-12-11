@@ -1,0 +1,25 @@
+{
+    "name": "Rakesh Kumar",
+    "age": 35,
+    "city": "Bangalore"
+ }
+
+ {
+    "name": "Rakesh Kumar",
+     "details" : {
+            "age": 35,
+            "city": "Bangalore"
+     }
+ }
+
+
+ {
+    "name": "Rakesh Kumar",
+     "details" : {
+            "age": 35,
+            "city": "Bangalore"
+     },
+     "friends" : ["John", "Jane", "Alice", "Bob"]  
+ }
+
+
