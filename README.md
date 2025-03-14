@@ -13,8 +13,8 @@ Collection of useful bash scripts for Linux
 
 ## Utility Scripts
 
-1. [check-certs.sh] (scripts/check-certs.sh) :  certificate expiration checker script for certificates stored in a Java keystore
-2. [env_detect.sh] (scripts/env_detect.sh) :  Dynamically Set Environment Variables in Bash Based on Hostname
+1. [check-certs.sh](scripts/check-certs.sh) :  certificate expiration checker script for certificates stored in a Java keystore
+2. [env_detect.sh](scripts/env_detect.sh) :  Dynamically Set Environment Variables in Bash Based on Hostname
 
 ## Script for programmer
 
